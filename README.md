@@ -65,3 +65,7 @@ The combined approach of using ResNet50 with metadata provides a more focused se
 - **Improve Classifier Accuracy:** Experiment with deeper architectures, data augmentation, and advanced training techniques to improve the CNN classifier's accuracy.
 - **Integrate More Metadata:** Use additional metadata fields such as brand, season, and usage to further refine recommendations.
 - **Explore Other Models:** Test other pre-trained models like EfficientNet or Vision Transformers for feature extraction.
+
+## Co-authors
+- jinji.shen@essec.edu
+- mengyu.liang@essec.edu
